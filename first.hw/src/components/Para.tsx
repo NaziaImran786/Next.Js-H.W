@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Para(props:any) {
+function Para(props:{name: string}) {
   return (
     <div>
       <p>My name is {props.name}</p>

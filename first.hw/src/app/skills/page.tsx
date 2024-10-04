@@ -1,7 +1,6 @@
 "use clien";
 import Favourite from '@/components/Favourite';
-import Para from '@/components/Para';
-import React, { useState } from 'react'
+import React from 'react'
 
 function Skill() {
   return (
