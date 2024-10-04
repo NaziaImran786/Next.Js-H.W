@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
   return (
     <div id="footer">
-      <h5>I m footer Page.</h5>
+      <h6>Homework done by Nazia Imran.</h6>
     </div>
   )
 }
